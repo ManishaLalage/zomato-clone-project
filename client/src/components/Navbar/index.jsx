@@ -113,7 +113,7 @@ const LargeNav = ({
           </span>
           <input
             type="text"
-            placeholder="Delhi NCR"
+            placeholder="Pune NCR"
             className="w-full focus:outline-none"
           />
           <IoMdArrowDropdown />
@@ -179,7 +179,7 @@ const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const user = {
-    // fullName: "Aditya",
+    // fullName: "Manisha",
   };
 
   return (
